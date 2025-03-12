@@ -1,0 +1,55 @@
+nav{
+
+    display: flex;
+    gap:40px;
+}
+
+search{
+    border: 2px solid black;
+    height: 45px;
+    width: 260px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+h2{
+    font-size: medium;
+}
+h1{
+    font-size: 40px;
+    align-self: center;
+
+    text-align: justify;
+    position: relative; 
+    margin-top: 10px;
+    color: rgb(106, 57, 151);
+}
+
+ 
+ hr{
+    width: 100%;
+    height: 0.5px;
+    background-color: black;
+    margin-top: 5px;
+ }
+ /* .supplier{
+    width: 0.5px;
+    height: 10%;
+    background-color: black;
+ } */
+  center{
+    display: flex;
+    gap:35px;
+  }
+  h3{
+    font-size: xxx-large;
+    margin-left: 30px;
+  }
+  img{
+    height: 44px;
+    margin-left: 30px;
+    
+  }
+  .pic{
+    display: flex;
+    gap 350px;
+  }
